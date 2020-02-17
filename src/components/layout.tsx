@@ -83,7 +83,7 @@ export const Layout: React.FunctionComponent<{
           name="viewport"
           content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
         />
-        <title>Festa Estranha com Gente Esquisita</title>
+        <title>Lucas A.</title>
       </Helmet>
 
       <Stack
@@ -110,7 +110,7 @@ export const Layout: React.FunctionComponent<{
                 fontWeight: "bold",
               }}
             >
-              LA Studio
+              Lucas A.
             </Text>
           </Link>
           <div
