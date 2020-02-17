@@ -113,14 +113,7 @@ export const Layout: React.FunctionComponent<{
               Lucas A.
             </Text>
           </Link>
-          <div
-            style={
-              {
-                // paddingLeft: 4,
-                // paddingRight: 4,
-              }
-            }
-          >
+          <div>
             <div
               style={{
                 height: 24,
