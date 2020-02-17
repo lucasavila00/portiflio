@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{QeBL:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),r=n("9Dj+"),c=n("bBLm"),o=n("Nw1C"),l=n("zXYB"),i=n("GLu6");t.default=function(){return a.createElement(r.a,{selectedKey:"portifolio"},a.createElement(c.a,{tokens:{childrenGap:"m"}},l.e.map((function(e){return a.createElement(i.a,{key:e.to,item:e,variant:"collapsed"})})),a.createElement(o.a,null)))}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-90b9896c54cd468b2384.js.map

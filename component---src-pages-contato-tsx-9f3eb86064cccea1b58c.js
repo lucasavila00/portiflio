@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"8KUX":function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),c=n("9Dj+"),o=n("Nw1C");t.default=function(){return a.createElement(c.a,{selectedKey:"contato"},a.createElement(o.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-contato-tsx-9f3eb86064cccea1b58c.js.map
