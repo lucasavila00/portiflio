@@ -21,7 +21,7 @@ export const GetInTouchCard = () => {
           Entre em contato agora
         </Text>
         <Text>
-          Converse e tire suas dúvidas sem compromisso.
+          Com certeza podemos fazer algo incrível juntos.
         </Text>
       </Stack>
       <Stack tokens={{ padding: "s1" }}>
