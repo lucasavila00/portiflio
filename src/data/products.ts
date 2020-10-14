@@ -34,7 +34,7 @@ export const prod_filtroume = {
   hashtags: [
     "#web",
     "#realidadeaumentada",
-    "#inteligênciaartificial",
+    "#inteligênciaartificiial",
   ],
   to: "/filtroume",
   imgCover: filtroume_cover,
